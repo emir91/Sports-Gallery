@@ -1,2 +1,2 @@
 # Sports-Gallery
-Gallery with images of some sports disciplines
+Gallery with images of some sports disciplines with JavaScript effects.
